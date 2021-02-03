@@ -6,4 +6,4 @@ Prometheus配置文件示例：
 - relabel-examples：重新打标配置示例；
 - rules：recording rules和alerting rules示例；
 
-
+# 仅为作测试使用
